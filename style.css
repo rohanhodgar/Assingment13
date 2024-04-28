@@ -1,0 +1,36 @@
+.signin {
+    font-size: 60px;
+    background-color: #ac331e;
+    border: solid 2px;
+    color: #D6A5D7;
+    font-style: italic;
+    padding: 10px;
+    border-radius: 30px;
+}
+.next {
+    font-size: 60px;
+    background-color: #b0d315;
+    border: double 5px;
+    color: wheat;
+    font-style: oblique;
+    padding: 10px;
+    border-radius: 50px;
+}
+.upload {
+    font-size: 60px;
+    background-color: #05C2CB;
+    border: dashed 5px;
+    color: blue;
+    font-style: oblique;
+    padding: 10px;
+    border-radius: 30px;
+}
+.logout {
+    font-size: 60px;
+    background-color: #05902E;
+    border: solid 5px;
+    color: bisque;
+    font-style: italic;
+    padding: 10px;
+    border-radius: 20px;
+}
